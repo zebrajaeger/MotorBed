@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BedApp</string>
+    <string name="action_settings">Choose Bluetooth Device</string>
+</resources>
